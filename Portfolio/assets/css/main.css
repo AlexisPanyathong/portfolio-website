@@ -2659,6 +2659,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			/* React Wars Img */
+			.react-wars-img {
+				width: 100%;
+			}
+
 /* List */
 
 	ol {
