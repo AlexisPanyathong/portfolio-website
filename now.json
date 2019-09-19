@@ -6,6 +6,5 @@
         "src": "portfolio-website/index.html",
         "use": "@now/static" 
       }
-    ],
-    "routes": [{ "src": "/(.*)", "dest": "portfolio-website/$1" }]
+    ]
 }
